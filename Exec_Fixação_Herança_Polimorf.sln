@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exec_Fixação_Herança_Polimorf", "Exec_Fixação_Herança_Polimorf.csproj", "{C8628228-3F3A-4BF5-827D-60901ECD832E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8628228-3F3A-4BF5-827D-60901ECD832E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8628228-3F3A-4BF5-827D-60901ECD832E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8628228-3F3A-4BF5-827D-60901ECD832E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8628228-3F3A-4BF5-827D-60901ECD832E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2C4CFD6-885D-4749-945E-112E2EA4B8EE}
+	EndGlobalSection
+EndGlobal
