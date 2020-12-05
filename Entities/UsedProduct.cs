@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 namespace Exec_Fixação_Herança_Polimorf.Entities
 {
@@ -18,7 +19,7 @@ namespace Exec_Fixação_Herança_Polimorf.Entities
         public override string priceTag()
         {
             string tag;
-            tag = $"{name} (used) $ {price} (Manufacture date: {manufactureDate.ToString("dd/mm/yyyy")})";
+            tag = $"{name} (used) $ {price.ToString("F2", CultureInfo.InvariantCulture)} (Manufacture date: {manufactureDate})";
             return tag;
         }
     }

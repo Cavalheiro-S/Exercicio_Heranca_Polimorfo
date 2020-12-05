@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 namespace Exec_Fixação_Herança_Polimorf.Entities
 {
@@ -18,7 +19,7 @@ namespace Exec_Fixação_Herança_Polimorf.Entities
         public override string priceTag()
         {
             string tag;
-            tag = base.priceTag() + $" (Customs fee: $ {customsFee})";
+            tag = $"{name} $ {totalPrice().ToString("F2", CultureInfo.InvariantCulture)} (Customs fee: $ {customsFee.ToString("F2", CultureInfo.InvariantCulture)})";
             return tag;
         }
         

@@ -1,0 +1,13 @@
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\bin\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.exe
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\bin\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.deps.json
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\bin\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.runtimeconfig.json
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\bin\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.runtimeconfig.dev.json
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\bin\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.dll
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\bin\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.pdb
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\obj\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.csprojAssemblyReference.cache
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\obj\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\obj\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\obj\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\obj\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.dll
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\obj\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.pdb
+C:\Users\lucas\Desktop\Trabalhos\Curso C#\Exec_Fixação_Herança_Polimorf\obj\Debug\netcoreapp3.1\Exec_Fixação_Herança_Polimorf.genruntimeconfig.cache

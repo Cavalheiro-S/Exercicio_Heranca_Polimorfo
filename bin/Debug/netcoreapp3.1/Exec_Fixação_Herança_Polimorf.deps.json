@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exec_Fixação_Herança_Polimorf/1.0.0": {
+        "runtime": {
+          "Exec_Fixação_Herança_Polimorf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exec_Fixação_Herança_Polimorf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

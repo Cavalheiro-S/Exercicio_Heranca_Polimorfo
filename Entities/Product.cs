@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Globalization;
 
 namespace Exec_Fixação_Herança_Polimorf.Entities
 {
@@ -20,7 +21,7 @@ namespace Exec_Fixação_Herança_Polimorf.Entities
         public virtual string priceTag()
         {
             string Tag;
-            Tag = $"{name} $ {price}";
+            Tag = $"{name} $ {price.ToString("F2", CultureInfo.InvariantCulture)}";
             return Tag;
         }
     }
