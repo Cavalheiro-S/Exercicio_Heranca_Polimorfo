@@ -8,6 +8,13 @@ namespace Exec_Fixação_Herança_Polimorf.Entities
     {
         public double customsFee { get; set; }
 
+        public ImportedProduct() { }
+
+        public ImportedProduct(string name, double price, double customsFee) : base(name, price)
+        {
+            this.customsFee = customsFee;
+        }
+
         public override string priceTag()
         {
             string tag;
@@ -20,7 +27,7 @@ namespace Exec_Fixação_Herança_Polimorf.Entities
             double total = 0.0;
 
             total = price + customsFee;
-            return total
+            return total;
         }
     }
 }

@@ -9,6 +9,14 @@ namespace Exec_Fixação_Herança_Polimorf.Entities
         public string name { get; set; }
         public double price { get; set; }
 
+        public Product() { }
+
+        public Product(string name, double price) 
+        {
+            this.name = name;
+            this.price = price;
+        }
+
         public virtual string priceTag()
         {
             string Tag;

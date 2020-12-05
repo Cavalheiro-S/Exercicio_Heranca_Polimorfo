@@ -4,9 +4,16 @@ using System.Text;
 
 namespace Exec_Fixação_Herança_Polimorf.Entities
 {
-    class UserProduct : Product
+    class UsedProduct : Product
     {
         public DateTime manufactureDate { get; set; }
+
+        public UsedProduct() { }
+
+        public UsedProduct(string name, double price,DateTime manufactureDate): base(name, price)
+        {
+            this.manufactureDate = manufactureDate;
+        }
 
         public override string priceTag()
         {
